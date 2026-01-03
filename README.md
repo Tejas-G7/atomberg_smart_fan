@@ -70,10 +70,15 @@ The app follows a **clean architecture** with **Flutter + Bloc** for predictable
 
 ## Live Website Link
 
-👉 [Click to visit](#)
+👉 [Click to visit](https://tejas-g7.github.io/atomberg_smart_fan/)
 
 ---
 
 ## App Demo Video
 
-🎥 [Click to view / download app demo video](#)
+🎥 [Click to view / download app demo video](project_demo/app_demo.mp4)
+
+<video width="600" controls>
+  <source src="project_demo/app_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
